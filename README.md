@@ -7,9 +7,9 @@ __How to run both the backend and frontend using Git Bash:__ <br>
 * Open root folder
 * Right-click 'Git Bash here'
 * in terminal, write 'bash quickstart.sh'
-* __To close connections, simple press any button!__
-
-Alternatively, you could run both the backend and frontend via the terminal in VS Code, but this method is a bit cumbersome.
+* __To close connections, press 'CTRL' + 'C'!__
+---
+Alternatively, you could run both the backend and frontend via the terminal in VS Code, but this method is a bit cumbersome. <br>
 __How to run in VS Code Terminal:__ <br>
 * cd to root folder
 * cd Backend
