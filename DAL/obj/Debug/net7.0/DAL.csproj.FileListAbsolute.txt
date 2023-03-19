@@ -1,0 +1,5 @@
+C:\Users\danie\Pictures\DesktopFolders\Project\MyOwnProjects\employee-reports-app\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\danie\Pictures\DesktopFolders\Project\MyOwnProjects\employee-reports-app\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Pictures\DesktopFolders\Project\MyOwnProjects\employee-reports-app\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\danie\Pictures\DesktopFolders\Project\MyOwnProjects\employee-reports-app\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\danie\Pictures\DesktopFolders\Project\MyOwnProjects\employee-reports-app\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
